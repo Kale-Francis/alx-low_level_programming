@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -s $CFILE -o ${base_name}.s
+gcc -s $CFILE -o s
